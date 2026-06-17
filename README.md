@@ -326,7 +326,7 @@ JourneyCraft/
 ├── backend/                    # Express.js backend
 │   ├── src/
 │   │   ├── controllers/        # Route controllers
-│   │   ├── models/            # Mongoose schemas
+│   │   ├── models/            # # Sequelize models
 │   │   ├── routes/            # API routes
 │   │   ├── middleware/        # Custom middleware
 │   │   ├── services/          # External service integrations
