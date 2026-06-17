@@ -1,6 +1,6 @@
 # Deployment Guide for Render.com
 
-This guide will help you deploy the Travel Rogue application on Render.com.
+This guide will help you deploy the Journey Craft application on Render.com.
 
 ## Prerequisites
 
@@ -143,4 +143,4 @@ If you encounter CORS issues, update your backend's CORS configuration to includ
 - [ ] Email notifications work (if configured)
 - [ ] All features tested in production environment
 
-Your Travel Rogue application should now be live and accessible to users!
+Your Journey Craft application should now be live and accessible to users!
